@@ -1,0 +1,1 @@
+//File contains code of virtual function and Abstract Class.
