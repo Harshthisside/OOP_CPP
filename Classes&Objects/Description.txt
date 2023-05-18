@@ -1,0 +1,1 @@
+This file contains intial c++ codes of classes and objects
